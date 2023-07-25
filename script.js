@@ -110,7 +110,7 @@ function calculation() {
     //         var j = i;
     //         while (mergedInput[i]){}
     //     }
-    }
+    // }
     if (!Number.isInteger(mergedInput[0])){
         if (mergedInput[0] == '+') {
             solution = finishedSolution + mergedInput[1];
